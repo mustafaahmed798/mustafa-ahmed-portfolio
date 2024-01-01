@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mustafa-ahmed-portfolio/static/css/main.46e704a0.css",
+    "main.js": "/mustafa-ahmed-portfolio/static/js/main.4a69a0f3.js",
+    "static/media/mustafa.png": "/mustafa-ahmed-portfolio/static/media/mustafa.bdb53db26f3f8d21d186.png",
+    "index.html": "/mustafa-ahmed-portfolio/index.html",
+    "main.46e704a0.css.map": "/mustafa-ahmed-portfolio/static/css/main.46e704a0.css.map",
+    "main.4a69a0f3.js.map": "/mustafa-ahmed-portfolio/static/js/main.4a69a0f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e704a0.css",
+    "static/js/main.4a69a0f3.js"
+  ]
+}
